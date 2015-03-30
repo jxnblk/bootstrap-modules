@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-list-group",
+  "version": "3.3.4",
+  "description": "Bootstrap list-group modularized with boostrap-modules",
+  "main": "_list-group.scss",
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "css"
+  ],
+  "contributors": [
+    "Thomas McDonald",
+    "Tristan Harward",
+    "Peter Gumeson",
+    "Gleb Mazovetskiy"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "~2.0",
+    "mincer": "~1.2",
+    "ejs": "~1.0"
+  }
+}

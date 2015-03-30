@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test",
+    "start": "node build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.6.0",
+    "mocha": "^2.2.1",
+    "node-sass": "^2.1.1"
+  },
+  "devDependencies": {
+    "css-validator": "^0.5.1"
+  }
+}

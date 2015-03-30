@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-panels",
+  "version": "3.3.4",
+  "description": "Bootstrap panels modularized with boostrap-modules",
+  "main": "_panels.scss",
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "css"
+  ],
+  "contributors": [
+    "Thomas McDonald",
+    "Tristan Harward",
+    "Peter Gumeson",
+    "Gleb Mazovetskiy"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "~2.0",
+    "mincer": "~1.2",
+    "ejs": "~1.0"
+  }
+}

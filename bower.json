@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-modules",
+  "version": "0.0.0",
+  "authors": [
+    "Brent Jackson <jxnblk@github.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
