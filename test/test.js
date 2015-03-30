@@ -6,6 +6,8 @@ var sass = require('node-sass');
 var validate = require('css-validator');
 
 var dirname = path.join(__dirname, '../modules/');
+var variablesDir = path.join(__dirname, '../modules/variables');
+var mixinsDir = path.join(__dirname, '../modules/mixins');
 var mods = fs.readdirSync(dirname);
 
 mods = mods.filter(function(mod) {
@@ -14,9 +16,11 @@ mods = mods.filter(function(mod) {
 
 
 mods = mods.map(function(mod) {
-  console.log(mod);
   if (mod.match(/\./)) { return false }
   var contents = '@import "../variables/variables";\n@import "../mixins/mixins";\n\n';
+  if (mod === 'navbar') {
+    contents += '@import "../forms/forms";\n';
+  }
   contents += fs.readFileSync(dirname + mod + '/_' + mod + '.scss', 'utf8');
   return {
     path: mod,
@@ -26,7 +30,6 @@ mods = mods.map(function(mod) {
 });
 
 mods = mods.filter(function(mod, i) {
-  //console.log(mod.path);
   return mod !== false && typeof mod.path !== 'undefined';
 });
 
@@ -35,14 +38,12 @@ var compiled = [];
 
 
 mods.forEach(function(mod) {
-  //console.log(dirname, mod.source);
   try {
-    var results = sass.renderSync({
+    var css = sass.renderSync({
       data: mod.contents,
-      includePaths: [dirname, mod.source]
-    });
-    compiled.push({ name: mod.path, css: results.css });
-    fs.writeFileSync(path.join(__dirname, './results/' + mod.path + '.css'), results.css);
+      includePaths: [dirname, mod.source, variablesDir, mixinsDir]
+    }).css;
+    compiled.push({ name: mod.path, css: css });
   } catch(e) {
     console.log('Error parsing ' + mod.path);
   }

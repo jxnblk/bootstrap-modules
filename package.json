@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test",
+    "clean": "rm -r modules/*",
     "start": "node build"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.0.3",
     "lodash": "^3.6.0",
     "mocha": "^2.2.1",
     "node-sass": "^2.1.1"
