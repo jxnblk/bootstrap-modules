@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-code",
   "version": "3.3.4",
-  "description": "Bootstrap code modularized with boostrap-modules",
+  "description": "Bootstrap code modularized with bootstrap-modules",
   "main": "_code.scss",
   "keywords": [
     "bootstrap",

@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-responsive-utilities",
   "version": "3.3.4",
-  "description": "Bootstrap responsive-utilities modularized with boostrap-modules",
+  "description": "Bootstrap responsive-utilities modularized with bootstrap-modules",
   "main": "_responsive-utilities.scss",
   "keywords": [
     "bootstrap",

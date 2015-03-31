@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-wells",
   "version": "3.3.4",
-  "description": "Bootstrap wells modularized with boostrap-modules",
+  "description": "Bootstrap wells modularized with bootstrap-modules",
   "main": "_wells.scss",
   "keywords": [
     "bootstrap",

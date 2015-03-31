@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-normalize",
   "version": "3.3.4",
-  "description": "Bootstrap normalize modularized with boostrap-modules",
+  "description": "Bootstrap normalize modularized with bootstrap-modules",
   "main": "_normalize.scss",
   "keywords": [
     "bootstrap",

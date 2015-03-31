@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-utilities",
   "version": "3.3.4",
-  "description": "Bootstrap utilities modularized with boostrap-modules",
+  "description": "Bootstrap utilities modularized with bootstrap-modules",
   "main": "_utilities.scss",
   "keywords": [
     "bootstrap",

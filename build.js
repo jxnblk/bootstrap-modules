@@ -63,7 +63,7 @@ mods = partials.map(function(filename) {
 
   // Format package.json
   pkg.name = 'bootstrap-' + name;
-  pkg.description = 'Bootstrap ' + name + ' modularized with boostrap-modules';
+  pkg.description = 'Bootstrap ' + name + ' modularized with bootstrap-modules';
   pkg.main = filename;
   pkg.style = name + '.css';
   if (name === 'navbar') {

@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-scaffolding",
   "version": "3.3.4",
-  "description": "Bootstrap scaffolding modularized with boostrap-modules",
+  "description": "Bootstrap scaffolding modularized with bootstrap-modules",
   "main": "_scaffolding.scss",
   "keywords": [
     "bootstrap",

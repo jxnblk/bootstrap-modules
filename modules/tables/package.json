@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-tables",
   "version": "3.3.4",
-  "description": "Bootstrap tables modularized with boostrap-modules",
+  "description": "Bootstrap tables modularized with bootstrap-modules",
   "main": "_tables.scss",
   "keywords": [
     "bootstrap",

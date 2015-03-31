@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-breadcrumbs",
   "version": "3.3.4",
-  "description": "Bootstrap breadcrumbs modularized with boostrap-modules",
+  "description": "Bootstrap breadcrumbs modularized with bootstrap-modules",
   "main": "_breadcrumbs.scss",
   "keywords": [
     "bootstrap",

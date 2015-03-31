@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-progress-bars",
   "version": "3.3.4",
-  "description": "Bootstrap progress-bars modularized with boostrap-modules",
+  "description": "Bootstrap progress-bars modularized with bootstrap-modules",
   "main": "_progress-bars.scss",
   "keywords": [
     "bootstrap",

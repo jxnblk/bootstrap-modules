@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-navs",
   "version": "3.3.4",
-  "description": "Bootstrap navs modularized with boostrap-modules",
+  "description": "Bootstrap navs modularized with bootstrap-modules",
   "main": "_navs.scss",
   "keywords": [
     "bootstrap",

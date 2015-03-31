@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-modals",
   "version": "3.3.4",
-  "description": "Bootstrap modals modularized with boostrap-modules",
+  "description": "Bootstrap modals modularized with bootstrap-modules",
   "main": "_modals.scss",
   "keywords": [
     "bootstrap",

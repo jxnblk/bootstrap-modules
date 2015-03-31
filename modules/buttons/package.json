@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-buttons",
   "version": "3.3.4",
-  "description": "Bootstrap buttons modularized with boostrap-modules",
+  "description": "Bootstrap buttons modularized with bootstrap-modules",
   "main": "_buttons.scss",
   "keywords": [
     "bootstrap",
