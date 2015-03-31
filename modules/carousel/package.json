@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-carousel",
   "version": "3.3.4",
-  "description": "Bootstrap carousel modularized with boostrap-modules",
+  "description": "Bootstrap carousel modularized with bootstrap-modules",
   "main": "_carousel.scss",
   "keywords": [
     "bootstrap",

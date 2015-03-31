@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-button-groups",
   "version": "3.3.4",
-  "description": "Bootstrap button-groups modularized with boostrap-modules",
+  "description": "Bootstrap button-groups modularized with bootstrap-modules",
   "main": "_button-groups.scss",
   "keywords": [
     "bootstrap",

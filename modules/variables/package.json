@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-variables",
   "version": "3.3.4",
-  "description": "Bootstrap variables modularized with boostrap-modules",
+  "description": "Bootstrap variables modularized with bootstrap-modules",
   "main": "_variables.scss",
   "keywords": [
     "bootstrap",

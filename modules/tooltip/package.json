@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-tooltip",
   "version": "3.3.4",
-  "description": "Bootstrap tooltip modularized with boostrap-modules",
+  "description": "Bootstrap tooltip modularized with bootstrap-modules",
   "main": "_tooltip.scss",
   "keywords": [
     "bootstrap",

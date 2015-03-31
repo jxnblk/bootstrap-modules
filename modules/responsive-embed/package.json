@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-responsive-embed",
   "version": "3.3.4",
-  "description": "Bootstrap responsive-embed modularized with boostrap-modules",
+  "description": "Bootstrap responsive-embed modularized with bootstrap-modules",
   "main": "_responsive-embed.scss",
   "keywords": [
     "bootstrap",

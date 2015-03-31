@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-pager",
   "version": "3.3.4",
-  "description": "Bootstrap pager modularized with boostrap-modules",
+  "description": "Bootstrap pager modularized with bootstrap-modules",
   "main": "_pager.scss",
   "keywords": [
     "bootstrap",

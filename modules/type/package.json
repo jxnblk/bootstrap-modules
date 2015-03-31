@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-type",
   "version": "3.3.4",
-  "description": "Bootstrap type modularized with boostrap-modules",
+  "description": "Bootstrap type modularized with bootstrap-modules",
   "main": "_type.scss",
   "keywords": [
     "bootstrap",

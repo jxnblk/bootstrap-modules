@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-labels",
   "version": "3.3.4",
-  "description": "Bootstrap labels modularized with boostrap-modules",
+  "description": "Bootstrap labels modularized with bootstrap-modules",
   "main": "_labels.scss",
   "keywords": [
     "bootstrap",

@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-theme",
   "version": "3.3.4",
-  "description": "Bootstrap theme modularized with boostrap-modules",
+  "description": "Bootstrap theme modularized with bootstrap-modules",
   "main": "_theme.scss",
   "keywords": [
     "bootstrap",

@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-dropdowns",
   "version": "3.3.4",
-  "description": "Bootstrap dropdowns modularized with boostrap-modules",
+  "description": "Bootstrap dropdowns modularized with bootstrap-modules",
   "main": "_dropdowns.scss",
   "keywords": [
     "bootstrap",

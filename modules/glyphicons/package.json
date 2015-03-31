@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-glyphicons",
   "version": "3.3.4",
-  "description": "Bootstrap glyphicons modularized with boostrap-modules",
+  "description": "Bootstrap glyphicons modularized with bootstrap-modules",
   "main": "_glyphicons.scss",
   "keywords": [
     "bootstrap",

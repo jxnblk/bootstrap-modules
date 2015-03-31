@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-pagination",
   "version": "3.3.4",
-  "description": "Bootstrap pagination modularized with boostrap-modules",
+  "description": "Bootstrap pagination modularized with bootstrap-modules",
   "main": "_pagination.scss",
   "keywords": [
     "bootstrap",

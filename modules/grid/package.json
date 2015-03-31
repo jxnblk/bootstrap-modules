@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-grid",
   "version": "3.3.4",
-  "description": "Bootstrap grid modularized with boostrap-modules",
+  "description": "Bootstrap grid modularized with bootstrap-modules",
   "main": "_grid.scss",
   "keywords": [
     "bootstrap",

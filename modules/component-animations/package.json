@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-component-animations",
   "version": "3.3.4",
-  "description": "Bootstrap component-animations modularized with boostrap-modules",
+  "description": "Bootstrap component-animations modularized with bootstrap-modules",
   "main": "_component-animations.scss",
   "keywords": [
     "bootstrap",
